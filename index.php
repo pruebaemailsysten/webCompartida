@@ -22,13 +22,13 @@
 
             <nav class="flex jcc ancho40 wrap menu">
                 <ul>
-                    <li> <a href="lucas.php">Lucas</a></li>
+                    <li> <a href="Alan.php">Alan</a></li>
                     <li> <a href="elias.php">Elias</a></li>
+                    <li> <a href="jenny.php">Jenny</a></li>
                     <li> <a href="lucas.php">Lucas</a></li>
-                    <li> <a href="lucas.php">Lucas</a></li>
-                    <li> <a href="lucas.php">Lucas</a></li>
-                    <li> <a href="lucas.php">Lucas</a></li>
-                    <li> <a href="lucas.php">Lucas</a></li>
+                    <li> <a href="miguel.php">miguel</a></li>
+                    <li> <a href="nicolas.php">nicolas</a></li>
+                    <li> <a href="vicente.php">vicente</a></li>
                     <li> <a href="lucas.php">Lucas</a></li>
                   
                     
