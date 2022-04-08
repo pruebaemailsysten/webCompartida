@@ -569,3 +569,10 @@ footer{
     color: greenyellow;
     padding: 40px 0;
 }
+
+#destroy{
+    background-color: red;
+    color: #171717;
+    padding: 10px 15px;
+    border-radius: 56px;
+}
