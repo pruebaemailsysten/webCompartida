@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Elias</title>
+    <title>Probando</title>
 </head>
 <body>
-    <h1>Hola, esta es mi página</h1>
-    <h2>Probando Git o/o/o/</h2>
+    <h1>Titulo añadido en un segundo conmmit</h1>
+    <h2>ESta es la pagina del chocolate</h2>
 </body>
 </html>
