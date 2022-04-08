@@ -14,7 +14,7 @@
                 <h2>Un subtitulo menos interesante</h2>
             </div>
             <div class="flex column aic">
-                <img src="logo.png" alt="Logo">
+                <img src="logo.png" alt="Logo" class="logo">
             </div>
         </div>
     </header>
