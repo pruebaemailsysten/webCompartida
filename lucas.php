@@ -7,8 +7,8 @@
     <title>Página de Lucas</title>
 </head>
 <body>
-    <header class="w100 flex jcc aicc">
-        <div class="centered flex jcsb">
+    <header class="w100 flex jcc aic">
+        <div class="centered flex jcsb aic">
             <div class="flex column aifs">
                 <h1>Un titulo muy interesante</h1>
                 <h2>Un subtitulo menos interesante</h2>
