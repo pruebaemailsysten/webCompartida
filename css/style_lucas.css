@@ -551,3 +551,21 @@ b{
     height: 100px;
     border-radius: 50%;
 }
+
+body{
+    background-color: #ebebeb;
+    color: #171717;
+    min-height: 100vh;
+}
+
+html{
+    min-height: 100vh;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: #171717;
+    color: greenyellow;
+    padding: 40px 0;
+}

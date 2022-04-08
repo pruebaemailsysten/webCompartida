@@ -22,4 +22,10 @@
         <p>Añadido unos minutos despues<b>Ayy lmao</b></p>
     </div>
 </body>
+<footer class="w100 flex jcc aic">
+    <div class="w25 flex column aic">
+        <h6>Copyright By Me, 2022</h6>
+    </div>
+
+</footer>
 </html>
