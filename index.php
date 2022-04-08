@@ -13,25 +13,28 @@
 </head>
 <body>
 
-    <header class="flex jcc ancho100">
-        <div class="flex jcc aic ">
-            <img class="logo" src="./logo.png" alt="">
-        </div>
+    <header class="flex jcc ancho100 ">
+        <div class="flex jcsb centrado">
 
-        <nav>
-            <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-            </ul>
-        </nav>
+            <div class="flex jcc aic ancho40">
+                <img class="logo" src="./logo.png" alt="">
+            </div>
+
+            <nav class="flex jcc ancho40 menu">
+                <ul>
+                    <li> <a href="lucas.php">Lucas</a></li>
+                    <li> <a href="lucas.php">Lucas</a></li>
+                    <li> <a href="lucas.php">Lucas</a></li>
+                    <li> <a href="lucas.php">Lucas</a></li>
+                    <li> <a href="lucas.php">Lucas</a></li>
+                    <li> <a href="lucas.php">Lucas</a></li>
+                    <li> <a href="lucas.php">Lucas</a></li>
+                    
+                
+                </ul>
+            </nav>
+
+        </div>
        
 
     </header>
