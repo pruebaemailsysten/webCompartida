@@ -14,7 +14,7 @@
 <body>
 
     <header class="flex jcc ancho100">
-        <div class="flex jcc aic">
+        <div class="flex jcc aic ">
             <img class="logo" src="./logo.png" alt="">
         </div>
 
