@@ -13,14 +13,14 @@
 </head>
 <body>
 
-    <header class="flex jcc ancho100 ">
-        <div class="flex jcsa centrado">
+    <header class="flex jcc">
+        <div class="flex centrado wrap jcc">
 
-            <div class="flex jcc aic ancho40">
+            <div class="flex jcc ancho100 aic">
                 <img class="logo" src="./logo.png" alt="" >
             </div>
 
-            <nav class="flex jcc ancho40 wrap menu">
+            <nav class="flex jcc fila ancho100 wrap menu">
                 <ul>
                     <li> <a href="Alan.php">Alan</a></li>
                     <li> <a href="elias.php">Elias</a></li>
