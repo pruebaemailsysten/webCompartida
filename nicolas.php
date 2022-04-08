@@ -10,8 +10,8 @@
     <body>
         <section class="flex m-jcc">
             <div class="flex p-centrado m-jcc m-columna m-aic">
-                <h1 class="flex m100">PRUEBA NIKO</h1>
-                <p class="flex m100" >HOLA</p>
+                <h1 class="flex">PRUEBA NIKO</h1>
+                <p class="flex" >HOLA</p>
             </div>
         </section>
         
